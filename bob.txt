@@ -1,1 +1,2 @@
 Hello, this is Bob!
+alice is writing something in BOB text
