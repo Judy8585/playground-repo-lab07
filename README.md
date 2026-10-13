@@ -3,6 +3,11 @@
 Welcome! This repo exists so you can practice **forking, cloning, and contributing**
 without the stress of potentially breaking something.
 
+## Getting Started
+
+- Install the dependencies needed to run `analysis.py` or `analysis.R`.
+- Run the analysis with `python3 analysis.py` or `Rscript analysis.R`.
+
 ## What's in here
 
 This repo simulates a tiny, real-ish data science project:
@@ -16,7 +21,7 @@ Feel free to explore the strucure of the repo before diving into the exercise be
 
 ## Your task
 
-Follow the checklist in [`CONTRIBUTING.md`](CONTRIBUTIONS.md) to fix a few
+Follow the checklist in [`CONTRIBUTING.md`](CONTRIBUTING.md) to fix a few
 small issues in this README and push your changes to your fork.
 
 ## Data
